@@ -2,7 +2,7 @@
 
 ## Student Details
 Name: Kushagra Sharma  
-Roll Number: 24BCE11189  
+Registration Number: 24BCE11189  
 
 
 ## Chosen Software
